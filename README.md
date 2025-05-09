@@ -21,7 +21,7 @@ You’ve been hired by a nonprofit working on food insecurity. Your task is to f
 3. Run the cells to clean the data, fit models, and view results
 4. Answer the final prompt in markdown: *Which items are most volatile, and what explains their trends?*
 
-## 🔧 Tools Used
+##  Tools Used
 - Python
 - Pandas
 - Statsmodels (SARIMA)
