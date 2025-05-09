@@ -10,7 +10,7 @@ You’ve been hired by a nonprofit working on food insecurity. Your task is to f
 | Folder/File | Description |
 |-------------|-------------|
 | `data/`     | Cleaned grocery price dataset from BLS |
-| `notebooks/`| Jupyter notebook with SARIMA modeling and volatility analysis |
+| `notebooks/`| Google Colab with SARIMA modeling and volatility analysis |
 | `figures/`  | Visuals like line plots and boxplots |
 | `docs/`     | Hook doc, rubric, and source PDFs for student use |
 | `README.md` | This file – overview and instructions |
