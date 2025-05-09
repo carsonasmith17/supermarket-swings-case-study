@@ -1,4 +1,4 @@
-# 🛒 Supermarket Swings: The Up-And-Down World of Grocery Costs
+# Supermarket Swings: The Up-And-Down World of Grocery Costs
 
 This case study explores 10 years of grocery price volatility in the Mid-Atlantic using time-series modeling (SARIMA). Students replicate the analysis and answer: **Which grocery products show the most unpredictable price patterns, and why?**
 
