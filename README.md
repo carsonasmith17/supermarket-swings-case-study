@@ -27,6 +27,18 @@ You’ve been hired by a nonprofit working on food insecurity. Your task is to f
 - Statsmodels (SARIMA)
 - Matplotlib / Seaborn
 
+## Further Reading
+
+These two readings provide helpful context and inspiration for understanding grocery price volatility, inflation, and forecasting:
+
+-  [**What Was Up with Grocery Prices?** – Liberty Street Economics, Federal Reserve Bank of New York (2024)](https://libertystreeteconomics.newyorkfed.org/2024/07/what-was-up-with-grocery-prices/)  
+  A clear and insightful blog post exploring the real-world economic factors that drove up grocery prices during and after the COVID-19 pandemic, including wages, commodity markets, and supply chain dynamics.
+
+- [**Drivers and Triggers of International Food Price Spikes and Volatility** – Food Policy Journal](https://www.sciencedirect.com/science/article/pii/S0306919213001188)  
+  A peer-reviewed article analyzing the major causes of international food price volatility. Includes both structural and speculative factors, providing students with a deeper look into how food markets behave during crises.
+
+
+
 ## References
 - [BLS Grocery Price Dataset](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandwest_table.htm)
 - [SARIMA Forecasting Guide (Neptune.ai)](https://neptune.ai/blog/arima-sarima-real-world-time-series-forecasting-guide)
