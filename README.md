@@ -31,3 +31,5 @@ You’ve been hired by a nonprofit working on food insecurity. Your task is to f
 - [BLS Grocery Price Dataset](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandwest_table.htm)
 - [SARIMA Forecasting Guide (Neptune.ai)](https://neptune.ai/blog/arima-sarima-real-world-time-series-forecasting-guide)
 # supermarket-swings-case-study
+[ Open in Google Colab](https://colab.research.google.com/github/YOUR_USERNAME/supermarket-swings-case-study/blob/main/notebooks/supermarket_swings_analysis.ipynb)
+
